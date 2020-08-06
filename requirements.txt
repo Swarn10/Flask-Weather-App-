@@ -1,1 +1,7 @@
+Following are the requirements :- 
+1) flask 
+2) flask_sqlalchemy 
+3) sqlite3 
+4) requests  
 
+You also need to have an API_key for communicating with the OpenWeatherMap API. You just need to signup and the API key will be provided in the dashboard. 
